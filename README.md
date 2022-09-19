@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I Always Eating Food Only**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:https://www.linkedin.com/in/vidya-r-302116239</h3>
 <p align="left">
 </p>
 
