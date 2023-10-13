@@ -9,16 +9,14 @@
 
 - 🔭 I’m currently working on [IBM](Skill and Job Recommender)
 
-- 🌱 I’m currently learning **java,python,c,C++**
+- 🌱 I’m currently learning **javascript,Html5,Css3,Sql**
 
 - 👯 I’m looking to collaborate on **IBM**
 
-- 💬 Ask me about **veeeeee**
+- 💬 Ask me about **vidyapaja@gmail.com**
 
 - 📫 How to reach me **vidyapaja@gmail.com**
-
-- ⚡ Fun fact **I Always Eating Food Only**
-
+  
 <h3 align="left">Connect with me:https://www.linkedin.com/in/vidya-r-302116239</h3>
 <p align="left">
 </p>
